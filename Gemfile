@@ -22,6 +22,9 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 
 gem 'bcrypt',         '3.1.11'
+gem 'faker',          '1.7.3'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
